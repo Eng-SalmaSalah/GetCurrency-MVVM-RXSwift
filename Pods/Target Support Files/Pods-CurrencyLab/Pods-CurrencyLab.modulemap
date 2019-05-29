@@ -1,0 +1,6 @@
+framework module Pods_CurrencyLab {
+  umbrella header "Pods-CurrencyLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
